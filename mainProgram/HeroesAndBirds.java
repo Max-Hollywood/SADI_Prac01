@@ -1,6 +1,12 @@
+
+/**
+	@author Max-Hollywood
+	1/3/2018
+**/
+
+
 package mainProgram;
 
-import creatures.Creatures; // unused
 import superHeroes.Hero;
 import superHeroes.HeroAquaman;
 import superHeroes.HeroBatman;
@@ -8,9 +14,7 @@ import superHeroes.HeroBirdman;
 import superHeroes.HeroSuperman;
 import superHeroes.HeroWonderWoman;
 import normalAnimals.AnimalEagle;
-import normalAnimals.AnimalEmu; // unused
 import normalAnimals.AnimalParrot;
-import normalAnimals.AnimalPenguin; // unused
 import superAbilities.Abilities;
 
 public class HeroesAndBirds
