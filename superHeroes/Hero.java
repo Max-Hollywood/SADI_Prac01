@@ -1,7 +1,5 @@
 package superHeroes;
 
-import creatures.Creatures;
-
 public class Hero
 {
 	private String heroName; 

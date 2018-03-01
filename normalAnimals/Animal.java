@@ -1,8 +1,6 @@
 package normalAnimals;
 
-import creatures.Creatures;
-
-public class Animal extends Creatures
+public class Animal
 {
 	String animal;
 	
