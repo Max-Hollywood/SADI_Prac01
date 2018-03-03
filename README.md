@@ -2,8 +2,7 @@
 Practical Exercise, week 1: polymorphism, inheritance
 
 Version 2:
-![class2](/"Class Diagram 2.jpg")
-Format: !["class diagram 2 image"]
+![class2](/"Class Diagram2.jpg")
 
 ## Versions are kept in separate Branches
 Version 1 (original): master<br/>
