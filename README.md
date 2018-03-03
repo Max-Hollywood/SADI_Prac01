@@ -7,7 +7,7 @@ Version 2: version2
 
 ### master
 My initial attempt at creating the solution.
-- - Didn't use abstract classes, or List/ArrayList
+- \- Didn't use abstract classes, or List/ArrayList
 - - Manual approach to adding required class instances where they needed to be
 + + Fun
 
