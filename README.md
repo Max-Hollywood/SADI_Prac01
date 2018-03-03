@@ -1,8 +1,8 @@
 # SADI_Prac01
 Practical Exercise, week 1: polymorphism, inheritance
 
-Version 2:
-![["Class Diagram2.jpg")]]
+You are on Version 2:
+![class diagram](/Class Diagram2.jpg "Class Diagram")
 
 ## Versions are kept in separate Branches
 Version 1 (original): master<br/>
