@@ -12,6 +12,6 @@ public class Superman extends _Hero implements Flight
 	@Override
 	public void fly()
 	{
-		
+		System.out.println("The spokesman for comfy undies, taking flight.");
 	}
 }

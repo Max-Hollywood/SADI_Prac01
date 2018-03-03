@@ -9,6 +9,16 @@ import birds._Bird;
 import heroes.HeroControl;
 import heroes._Hero;
 
+/* NOTE TO SELF:
+ *  Make sure to switch between MASTER and VERSION2 in
+ *  github, then REFRESH Eclipse.  Github is for sharing
+ *  my fantasic/terrible code.
+ *  
+ *  Make changes in the other project and copy them in
+ *  here.  So for reference later, I don't have to mess
+ *  with github branches.
+ */
+
 /**
  * Our favourite DC superheroes in their prime, before
  * most of them were turned into horrible movies.
@@ -44,7 +54,10 @@ public class HeroesAndBirds
 		}
 		
 		// Print out our flying chaps
-		
+		for (Flight flyer : Flying)
+		{
+			flyer.fly();
+		}
 		
 	}
 }
