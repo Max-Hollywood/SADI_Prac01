@@ -1,7 +1,8 @@
 
 /**
-	@author Max-Hollywood
-	1/3/2018
+ * @version 1
+ * @author Max-Hollywood
+ * 1/3/2018
 **/
 
 
