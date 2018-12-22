@@ -1,8 +1,8 @@
 # SADI_Prac01
 Practical Exercise, week 1: polymorphism, inheritance
 
-You are on Version 1:
-![class diagram](https://github.com/Max-Hollywood/SADI_Prac01/blob/master/Class%20Diagram1.jpg "Class Diagram")
+You are on Version 2:
+![class diagram](https://github.com/Max-Hollywood/SADI_Prac01/blob/version2/Class%20Diagram2.jpg "Class Diagram")
 
 ## Versions are kept in separate Branches
 Version 1 (original): master<br/>
